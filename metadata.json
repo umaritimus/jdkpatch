@@ -2,9 +2,11 @@
   "name": "umaritimus-jdkpatch",
   "version": "0.1.0",
   "author": "umaritimus",
-  "summary": "",
+  "summary": "This module applies JDK patch to PeopleSoft middleware",
   "license": "MIT",
-  "source": "",
+  "source": "https://github.com/umaritimus/jdkpatch.git",
+  "project_page": "https://github.com/umaritimus/jdkpatch",
+  "issues_url": "https://github.com/umaritimus/jdkpatch",
   "dependencies": [
 
   ],
